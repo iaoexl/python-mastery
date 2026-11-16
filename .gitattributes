@@ -1,0 +1,7 @@
+# 统一文本换行，避免 Windows 与 Unix 之间脚本解析差异。
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.lock text eol=lf

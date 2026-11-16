@@ -1,0 +1,11 @@
+# 锁定给机器复现；声明给人看的那一份在 pyproject.toml。
+# 每条都对应知识库 0_3 基线表里"需预先准备的工具"。
+build==1.6.1
+coverage==7.16.2
+mypy==2.4.1
+pytest==9.2.0
+pytest-cov==7.1.0
+ruff==0.17.5
+setuptools==84.2.1
+virtualenv==21.15.6
+wheel==0.48.0

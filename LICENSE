@@ -1,0 +1,70 @@
+# python-mastery 许可说明
+
+本仓库的 Markdown 文档、示例代码、测试、脚本与说明文字由 AI 工具依据公开资料与使用者指令生成、归纳与结构化。本文件按内容类型分层授权。许可范围只覆盖本仓库自身的编写与整理成果，不覆盖第三方原始资料。
+
+## 一、文档与整理成果：CC BY 4.0
+
+适用范围：`README.md`、`docs/` 目录下的全部 Markdown 文件。
+
+授权条款：知识共享 署名 4.0 国际许可协议（Creative Commons Attribution 4.0 International，CC BY 4.0）。使用者可以任何媒介或格式复制、发行这些内容，也可以修改、转换或据此再创作，包括用于商业目的。使用者须保留署名、提供协议链接、说明是否改动，且不得附加额外限制。
+
+建议署名格式：
+
+```text
+iaoexl，《文档标题》，CC BY 4.0，https://creativecommons.org/licenses/by/4.0/deed.zh
+```
+
+官方文本以 Creative Commons 发布版本为准：
+
+- 协议摘要：https://creativecommons.org/licenses/by/4.0/deed.zh
+- 完整法律文本：https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
+
+## 二、代码、测试与脚本：MIT License
+
+适用范围：`src/`、`tests/`、`scripts/` 目录下的文件，以及 `pyproject.toml`、`requirements.lock`。
+
+分层理由：知识共享官方 FAQ 明确不建议把 CC 许可用于软件本身，同时说明 CC 许可可以用于软件文档。代码部分因此改用软件专用许可，文档部分沿用 CC BY 4.0。依据条目见第四节。
+
+以下为 MIT License 标准文本（英文原文，直接引用）：
+
+```text
+MIT License
+
+Copyright (c) 2026 iaoexl
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+本仓库代码部分的权利主体为 iaoexl，年份为 2026。MIT 文本中的版权人即指向该主体；使用者按上述条款使用时须保留此行。`pyproject.toml` 中的 `license = "MIT"` 与 `authors` 字段只描述本包的代码部分，文档的 CC BY 4.0 授权以本文件第一节为准。
+
+## 三、AI 生成内容与权利边界（两类内容共同适用）
+
+1. 本仓库不判断 AI 生成内容在任何法域是否构成受著作权保护的作品，也不判断其权利归属。上述许可表达的是：在依法可授权的范围内，发布者按对应条款允许使用者使用这些内容。
+2. 若某部分内容依法不构成受保护作品，或不受排他权利覆盖，本文件同时视为发布者不就该部分向使用者主张排他权利的承诺。
+3. 内容中提及或引用的 Python 官方文档、标准文本、教材、工具书、厂商文档与其他第三方资料，其著作权归各自权利人。本许可不改变这些资料的权利状态，也不授权超出其原有许可范围的使用。
+4. 本仓库按「现状」提供，不附带任何明示或默示担保。教程与脚本仅供学习和自我验证参考，不构成生产环境可用性承诺、安全承诺或专业意见。
+5. 使用者在商业使用、再分发或二次创作前，应自行核查所涉内容与第三方资料的合规情况，并保留出处标注。
+
+## 四、资料来源（MLA 格式）
+
+Creative Commons. "Frequently Asked Questions." *CC Public Wiki*, wiki.creativecommons.org/wiki/FAQ. Accessed 16 Nov. 2026.
+
+Creative Commons. "Attribution 4.0 International (CC BY 4.0)." *Creative Commons*, creativecommons.org/licenses/by/4.0/deed.zh. Accessed 16 Nov. 2026.
+
+Open Source Initiative. "MIT License." *Open Source Initiative*, opensource.org/license/mit. Accessed 16 Nov. 2026.

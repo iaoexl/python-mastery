@@ -1,0 +1,70 @@
+# ---------- 操作系统 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 临时与日志 ----------
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# ---------- 构建与分发产物 ----------
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+pip-wheel-metadata/
+*.whl
+*.tar.gz
+
+# ---------- Python 缓存与虚拟环境 ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.hypothesis/
+.ipynb_checkpoints/
+.tox/
+.nox/
+__pypackages__/
+pip-log.txt
+
+# ---------- IDE / 编辑器 ----------
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ---------- 安全：敏感文件与凭据 ----------
+secret.txt
+*.key
+*.pem
+password*.ini
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+id_rsa*
+id_ed25519*
+*_rsa
+*_ed25519
+*credential*.json
+*token*.json
+*secret*.json
+
+# ---------- WorkBuddy ----------
+.workbuddy/
