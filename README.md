@@ -130,3 +130,32 @@ Creative Commons. "Frequently Asked Questions." *CC Public Wiki*, wiki.creativec
 Creative Commons. "Attribution 4.0 International (CC BY 4.0)." *Creative Commons*, creativecommons.org/licenses/by/4.0/deed.zh. Accessed 16 Nov. 2026.
 
 Open Source Initiative. "MIT License." *Open Source Initiative*, opensource.org/license/mit. Accessed 16 Nov. 2026.
+
+## 请我喝杯咖啡
+
+|     微信赞赏码     |       支付宝        |       支付宝红包        |
+| :----------------: | :-----------------: | :-----------------: |
+| <img src="images/wx.jpg" alt="赞赏码" width="200"> | <img src="images/zfb.jpg" alt="支付宝" width="200">| <img src="images/zfb_hb.jpg" alt="支付宝红包" width="200">|
+
+## 你可以在这些地方找到我 (Find Me Here)
+
+<p align="center">
+  <a href="https://gitcode.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitcode.ico" width="18" height="18" alt="GitCode">&nbsp;GitCode
+  </a>
+  <span style="color: #999;">&nbsp;/&nbsp;</span>
+  <a href="https://atomgit.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">&nbsp;AtomGit
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cnb.cool/iaoexl/python-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+</p>
