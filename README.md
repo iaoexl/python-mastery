@@ -131,6 +131,8 @@ Creative Commons. "Attribution 4.0 International (CC BY 4.0)." *Creative Commons
 
 Open Source Initiative. "MIT License." *Open Source Initiative*, opensource.org/license/mit. Accessed 16 Nov. 2026.
 
+"Python3 教程." *菜鸟教程*, www.runoob.com/python3/python3-tutorial.html. Accessed 18 Nov. 2026.
+
 ## 请我喝杯咖啡
 
 |     微信赞赏码     |       支付宝        |       支付宝红包        |
