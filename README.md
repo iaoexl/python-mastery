@@ -1,9 +1,6 @@
 # Python 语言从入门到精通（python-mastery）
 
-[![文档: CC BY 4.0](https://img.shields.io/badge/Docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
-[![代码: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
-
-作者：iaoexl
+[![文档: CC BY 4.0](https://img.shields.io/badge/Docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh) [![代码: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 
 > 一套能读、能跑、能复验的 Python 教程工程：`docs/` 讲机理，`src/` 与 `tests/` 把机理写成可验证的实现，五个 `scripts/` 脚本把环境、门禁、重建、回滚、起步串成可重跑的命令。
 >
@@ -133,6 +130,14 @@ Open Source Initiative. "MIT License." *Open Source Initiative*, opensource.org/
 
 "Python3 教程." *菜鸟教程*, www.runoob.com/python3/python3-tutorial.html. Accessed 18 Nov. 2026.
 
+## 代码推送与镜像同步说明
+
+本项目的代码推送流程如下：
+
+```text
+本地代码 → AtomGit → 自动镜像同步 → 腾讯云 CNB / GitHub / Gitee
+```
+
 ## 请我喝杯咖啡
 
 |     微信赞赏码     |       支付宝        |       支付宝红包        |
@@ -153,11 +158,11 @@ Open Source Initiative. "MIT License." *Open Source Initiative*, opensource.org/
     <img src="images/favicon_cnb.ico" width="18" height="18" alt="腾讯云 CNB">&nbsp;腾讯云 CNB
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitee.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
-    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
     <img src="images/favicon_github.png" width="18" height="18" alt="GitHub">&nbsp;GitHub
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitee.com/iaoexl/python-mastery.git" target="_blank" rel="noopener">
+    <img src="images/favicon_gitee.ico" width="18" height="18" alt="Gitee">&nbsp;Gitee
   </a>
 </p>
